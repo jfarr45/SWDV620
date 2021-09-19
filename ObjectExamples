@@ -1,0 +1,4 @@
+Examples of objects in Javascript
+Functions - var rectangle newFunction(length, width)
+Strings - var val = newString("insert string here")
+Dates = var d = newDate()
