@@ -1,0 +1,9 @@
+<script>
+  function click() {
+    alert('Hello and welcome to our page!')
+   }
+  </script>
+
+<body>
+  <button onclick=click()>Click here to get started!</button>
+ </body>
